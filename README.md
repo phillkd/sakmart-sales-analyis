@@ -70,15 +70,15 @@ This project explores retail sales data from SAKmart (based on the Kaggle Walmar
 
 ## 📸 Visuals
 
-You can view dashboard screenshots in the `/visuals/` folder.
+You can view dashboard screenshots below.
 
-| Sales Analysis |
+| `Sales Analysis` |
 ![Sales_Analysis](https://github.com/user-attachments/assets/ed340a5e-8e3a-4c8f-87e2-017e89459a01)
 
-| Product Analysis |
+| `Product Analysis` |
 ![Product_Analysis](https://github.com/user-attachments/assets/2f4c68e3-3513-4f13-9c4b-c14270e113ff)
 
-| Customer Analysis |
+| `Customer Analysis` |
 ![Customer_Analysis](https://github.com/user-attachments/assets/be6bbc9f-a4c6-4e98-8394-e24d7ce387bc)
 
 ---
