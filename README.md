@@ -7,12 +7,26 @@ This project explores retail sales data from SAKmart (based on the Kaggle Walmar
 
 ## 📁 Dataset
 
-- **Source**: Kaggle Walmart Sales Forecasting competition
-- **Size**: 1,000 transaction records
-- **Branches**: Branch A, Branch B, Branch C
-- **Cities**: Mandalay, Yangon, Naypyitaw
-- **Fields**: Invoice ID, product line, quantity, unit price, tax, total, customer type, gender, payment type, date, time, rating
 
+- **Source**: Kaggle Walmart Sales Forecasting competition
+- **Size**: 1,000 transaction records. The dataset included the following columns:
+- 'Invoice ID'
+- 'Branch'
+- 'City'
+- 'Customer Type'
+- 'Gender'
+- 'Product Line'
+- 'Unit Price'
+- 'Quantity'
+- 'VAT'
+- 'Total'
+- 'Date'
+- 'Time'
+- 'Payment Type'
+- 'COGS'
+- 'Gross Margin Percent'
+- 'Gross Income'
+- 'Rating'
 ---
 
 ## 🎯 Project Objectives
@@ -58,11 +72,14 @@ This project explores retail sales data from SAKmart (based on the Kaggle Walmar
 
 You can view dashboard screenshots in the `/visuals/` folder.
 
-| Product Analysis | Sales Analysis |
-|------------------|----------------|
-| ![Product](visuals/Product_Analysis.png) | ![Sales](visuals/Sales_Analysis.png) |
+| Sales Analysis |
+![Sales_Analysis](https://github.com/user-attachments/assets/ed340a5e-8e3a-4c8f-87e2-017e89459a01)
 
-_(Customer Analysis visual not embedded here, but should be uploaded manually)_
+| Product Analysis |
+![Product_Analysis](https://github.com/user-attachments/assets/2f4c68e3-3513-4f13-9c4b-c14270e113ff)
+
+| Customer Analysis |
+![Customer_Analysis](https://github.com/user-attachments/assets/be6bbc9f-a4c6-4e98-8394-e24d7ce387bc)
 
 ---
 
@@ -78,5 +95,5 @@ _(Customer Analysis visual not embedded here, but should be uploaded manually)_
 
 ## 📌 Author
 
-**Phil Dagadu**  
+**Philip Dagadu**  
 SQL | Power BI | Data Analytics Projects
