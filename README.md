@@ -10,23 +10,23 @@ This project explores retail sales data from SAKmart (based on the Kaggle Walmar
 
 - **Source**: Kaggle Walmart Sales Forecasting competition
 - **Size**: 1,000 transaction records. The dataset included the following columns:
-- 'Invoice ID'
-- 'Branch'
-- 'City'
-- 'Customer Type'
-- 'Gender'
-- 'Product Line'
-- 'Unit Price'
-- 'Quantity'
-- 'VAT'
-- 'Total'
-- 'Date'
-- 'Time'
-- 'Payment Type'
-- 'COGS'
-- 'Gross Margin Percent'
-- 'Gross Income'
-- 'Rating'
+- `Invoice ID`  
+- `Branch`  
+- `City`  
+- `Customer Type`  
+- `Gender`  
+- `Product Line`  
+- `Unit Price`  
+- `Quantity`  
+- `VAT`  
+- `Total`  
+- `Date`  
+- `Time`  
+- `Payment Type`  
+- `COGS`  
+- `Gross Margin Percent`  
+- `Gross Income`  
+- `Rating`
 ---
 
 ## 🎯 Project Objectives
